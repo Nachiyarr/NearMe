@@ -172,6 +172,8 @@ shape="rect">
 
 
 ## OUTPUT
+![Screenshot 2023-10-25 194336](https://github.com/Nachiyarr/NearMe/assets/113497340/2a5e548e-f711-451d-ba04-61059b0e3b96)
+
 ![o1](https://github.com/Nachiyarr/NearMe/assets/113497340/27a7dace-4d3a-47fd-98e3-3aa13e0acc31)
 ![06](https://github.com/Nachiyarr/NearMe/assets/113497340/60e7e32f-468d-4e65-b559-5b1af809a88b)
 ![o4](https://github.com/Nachiyarr/NearMe/assets/113497340/8beb2b23-d756-46e5-84c9-59bb957e6e03)
